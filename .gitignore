@@ -1,3 +1,9 @@
+.gitignore
 .venv/
 movie/
 frames/
+colorized_frames/
+colorization_deploy_v2.prototxt
+colorization_release_v2_norebal.caffemodel
+colorized_movie.mp4
+pts_in_hull.npy
