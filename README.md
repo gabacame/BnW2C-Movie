@@ -3,6 +3,7 @@
 This project aims to colorize a black and white fragment of the movie "Ikiru" (1952) using deep learning techniques. The colorization is achieved through a Convolutional Neural Network (CNN) model pre-trained on a large dataset from Kaggle.
 
 ![Original_movie](ikiru1952.gif)
+
 ![Colorized_movie](colorized_movie.gif)
 
 ## Dataset and Pre-trained Models
